@@ -1,6 +1,6 @@
 colorama==0.3.7
 decorator==4.0.10
-Django==1.9.9
+Django==1.11.29
 ipython==5.1.0
 ipython-genutils==0.1.0
 pickleshare==0.7.4
